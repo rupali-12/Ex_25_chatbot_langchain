@@ -10,3 +10,4 @@ pandas
 openai
 langchain-groq
 huggingface_hub
+streamlit
