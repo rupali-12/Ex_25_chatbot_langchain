@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 # deployed link
 
-[DEPLOYED_LINK](https://ex25chatbotlangchain-q6a2msccmibfszrsodzatf.streamlit.app/)
+[DEPLOYED_LINK](https://ex25chatbotlangchain-haermy6y3vcfm9yfuxmvyg.streamlit.app/)
